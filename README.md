@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jane-YJ-Hu
-- 👀 I’m interested in Java.
+- 👀 I am interested in programming.
 - 🌱 I’m currently learning the JAVA.
 - 💞️ I hope to have some success in the IT industry.
 - 📫 My QQ email address is 2017424386@qq.com.
